@@ -1,0 +1,4 @@
+Name: Yvonne Shane Batucan BSIT-4B DAY
+~TASK MANAGER ACTIVITY~
+
+	Through this activity, I learned how to build a functional React.js application using components, props, and state management. I also gained hands-on experience in handling user interactions such as adding, deleting, and completing tasks, while using localStorage to make the app more practical by saving data. Additionally, I explored how to organize tasks with filters and style the interface to be clean and user-friendly. Overall, this project helped me strengthen both my React fundamentals and my ability to create a polished, real-world application.
