@@ -14,3 +14,17 @@ The React Compiler is not enabled on this template. To add it, see [this documen
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Create react Project
+
+*npx create vite@latest task-manager
+*Then choose:
+    Framework: React
+    Variant: JavaScript
+*npm install
+*npm run dev
+
+## Output Images
+<img src="images/image.png" alt="Output1" width="200"/>
+<img src="images/output2.png" alt="complete" width="400"/>
+
